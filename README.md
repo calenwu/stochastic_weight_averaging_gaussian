@@ -1,0 +1,5 @@
+Implementation of the [Stochastic Weight Averaging Gaussian paper](https://arxiv.org/abs/1902.02476)
+![description 1](https://github.com/calenwu/stochastic_weight_averaging_gaussian/blob/main/description_1.png?raw=true)
+![description 2](https://github.com/calenwu/stochastic_weight_averaging_gaussian/blob/main/description_2.png?raw=true)
+![description 3](https://github.com/calenwu/stochastic_weight_averaging_gaussian/blob/main/description_3.png?raw=true)
+![description 4](https://github.com/calenwu/stochastic_weight_averaging_gaussian/blob/main/description_4.png?raw=true)
